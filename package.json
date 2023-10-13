@@ -67,6 +67,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^16.2.0",
     "@smui/button": "6.0.0-beta.13",
     "@smui/data-table": "6.0.0-beta.13",
     "@smui/dialog": "6.0.0-beta.13",
